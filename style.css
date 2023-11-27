@@ -1,0 +1,26 @@
+.bodyContainer{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.mainImg{
+    width: 400px;
+}
+
+.mainContainer{
+    display: flex;
+}
+.mainBio{
+    margin-left: 10vw;
+}
+
+hr{
+    color: red;
+    height: 30px;
+}
+.socialLinks{
+    display: flex;
+}
+.socialLink{
+    width: 30px;
+}
